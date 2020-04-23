@@ -198,7 +198,7 @@
                     </div>
                   </div>
                   <div data-category="java" class="reference-item col-lg-3 col-md-6">
-                    <div class="reference"><a href="#"><img src="img/javascript2.jpg" width="279" alt="Calculator" class="img-fluid">
+                    <div class="reference"><a href="#"><img src="img/javascript2.JPG" width="279" alt="Calculator" class="img-fluid">
                         <div class="overlay">
                           <div class="inner">
                             <h3 class="h4 reference-title">Scientific Calculator</h3>
@@ -253,7 +253,7 @@
                     </div>
                   </div>
                   <div data-category="html" class="reference-item col-lg-3 col-md-6">
-                    <div class="reference"><a href="#"><img src="img/html3.jpg" alt="Kiddos" class="img-fluid">
+                    <div class="reference"><a href="#"><img src="img/html3.JPG" alt="Kiddos" class="img-fluid">
                         <div class="overlay">
                           <div class="inner">
                             <h3 class="h4 reference-title">Kiddos</h3>
