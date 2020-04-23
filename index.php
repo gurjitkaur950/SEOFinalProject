@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Gurjit Kaur- Web developer & designer, freelancer and paper crafter. I made many projects using different technologies and tools.">
     <link rel="keywords" content="Web designer, Web developer, freelancer, paper craft">
-    <link rel="shortlink" href="">
-    <link rel="canonical" href="">
+    <link rel="shortlink" href="https://gurjitkaur.herokuapp.com">
+    <link rel="canonical" href="https://gurjitkaur.herokuapp.com">
 
     <title>Home- Gurjit Kaur</title>
     <link rel="icon" type="image/ico" href="img/logo.png">
