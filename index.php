@@ -120,7 +120,7 @@
                     </div>
                   </div>
                   <div data-category="html" class="reference-item col-lg-3 col-md-6">
-                    <div class="reference"><img src="img/html2.jpg" alt="College Project" class="img-fluid">
+                    <div class="reference"><img src="img/html2.JPG" alt="College Project" class="img-fluid">
                     </div>
                   </div>
                   <div data-category="php" class="reference-item col-lg-3 col-md-6">
@@ -129,7 +129,7 @@
                     </div>
                   </div>
                   <div data-category="java" class="reference-item col-lg-3 col-md-6">
-                    <div class="reference"><img src="img/javascript2.jpg" width="279" alt="Calculator" class="img-fluid">
+                    <div class="reference"><img src="img/javascript2.JPG" width="279" alt="Calculator" class="img-fluid">
               </div>
                   </div>
                 <div data-category="photo" class="reference-item col-lg-3 col-md-6">
@@ -141,7 +141,7 @@
               </div>
                   </div>
                 <div data-category="html" class="reference-item col-lg-3 col-md-6">
-                    <div class="reference"><img src="img/html3.jpg" alt="Kiddos" class="img-fluid">
+                    <div class="reference"><img src="img/html3.JPG" alt="Kiddos" class="img-fluid">
               </div>
                   </div>
             
@@ -154,7 +154,7 @@
               </div>
                   </div>
                 <div data-category="java" class="reference-item col-lg-3 col-md-6">
-                    <div class="reference"><img src="img/javascript3.jpg" alt="My Apps" class="img-fluid">
+                    <div class="reference"><img src="img/javascript3.JPG" alt="My Apps" class="img-fluid">
               </div>
                   </div>
                 <div data-category="photo" class="reference-item col-lg-3 col-md-6">
