@@ -165,7 +165,7 @@
                     </div>
                   </div>
                   <div data-category="html" class="reference-item col-lg-3 col-md-6">
-                    <div class="reference"><a href="#"><img src="img/html2.jpg" alt="College Project" class="img-fluid">
+                    <div class="reference"><a href="#"><img src="img/html2.JPG" alt="College Project" class="img-fluid">
                         <div class="overlay">
                           <div class="inner">
                             <h3 class="h4 reference-title">College Project</h3>
