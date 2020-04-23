@@ -65,7 +65,7 @@
           <h1 class="title">About me</h1>
         </header>
         <div class="row">
-            <div class="col-sm-4 mx-auto mt-2"><img src="img/me.jpg" alt="This is me - IT worker"  class="img-fluid" ></div>
+            <div class="col-sm-4 mx-auto mt-2"><img src="img/me.JPG" alt="This is me - IT worker"  class="img-fluid" ></div>
           <div class="col-lg-6">
               <h5><img src="img/stair.png" width="30" height="27">Career Objective</h5>
               <ul class="info">
