@@ -83,7 +83,7 @@
             <h5><i class="fa fa-mobile-phone"></i> Mobile:</h5>
               <p class="info"> +1(416)879-5437</p>
             
-              <a href="resume/gurjit.docx" download class="btn btn-primary"><i class="fa fa-download"></i> Download Resume</a>
+              <a href="resume/Gurjit's Resume.pdf" download class="btn btn-primary"><i class="fa fa-download"></i> Download Resume</a>
           </div>
              </div>
       </div>
