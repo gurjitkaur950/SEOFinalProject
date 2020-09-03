@@ -99,7 +99,7 @@
             <section class="text-center">
                             <h3 class="title">My Location</h3>
                 <div class="google-maps">
-               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2897.939671050644!2d-80.47654978500965!3d43.420087175492185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDI1JzEyLjMiTiA4MMKwMjgnMjcuNyJX!5e0!3m2!1sen!2sca!4v1587657136059!5m2!1sen!2sca" width="1250" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2606.5611207521974!2d-123.07026728478453!3d49.20888468391847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548675caa9c289a1%3A0x209e8f377e792ac3!2s8367%20Beatrice%20St%2C%20Vancouver%2C%20BC%20V5P%203S1!5e0!3m2!1sen!2sca!4v1599170379793!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </section>
 
